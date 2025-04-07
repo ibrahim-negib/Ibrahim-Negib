@@ -24,19 +24,19 @@ On this GitHub, you'll discover:
 
 ## Tools
 
-### Network
+### Network 🛜
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-TCPDump-00599C?style=for-the-badge&logo=wireshark&logoColor=white" /></a>
 </div>
 
-### Endpoint
+### Endpoint 💻
 <div>
     <img src="https://img.shields.io/badge/-JumpCloud-3A77FF?style=for-the-badge&logo=jumpcloud&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/-MobileIron%20MDM-F58220?style=for-the-badge&logo=mobileiron&logoColor=white" /></a>
 </div>
 
-### Operating Systems 
+### Operating Systems 🐧
 <div>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Windows%2010-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
@@ -44,32 +44,19 @@ On this GitHub, you'll discover:
     <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </div>
 
-## Certifications
+## Certifications 👨🏽‍🎓
 <div>
   <a href="https://www.credly.com/badges/3808f70a-7b01-469e-a882-30bcf61124b4/public_url"><img src="https://img.shields.io/badge/CompTIA%20Security+-F94F26?style=for-the-badge&logo=comptia&logoColor=white" />
-
-  <a href="https://www.credly.com/badges/288b145a-0d81-49e1-b02d-24daecc7f0e5/public_url">
-  <a href="https://www.credly.com/badges/a3f44f77-c74a-4a66-99da-4062b21dd3de/public_url">
-  <a href="https://www.credly.com/badges/3ed6fee8-e829-49ef-9fdf-2e761a07bd11/public_url">
-  <a href="https://www.credly.com/badges/375a4cad-06ba-4d30-909a-8e6f31d5d640/public_url">
-  <a href="https://www.credly.com/badges/3cfab74a-1ccd-41af-a7d4-bfbd0a5e138a/public_url">
+  <a href="https://www.credly.com/badges/288b145a-0d81-49e1-b02d-24daecc7f0e5/public_url"><img src="https://img.shields.io/badge/ISC2%20SSCP-00AAFF?style=for-the-badge&logo=isc2&logoColor=white" />
+  <a href="https://www.credly.com/badges/a3f44f77-c74a-4a66-99da-4062b21dd3de/public_url"><img src="https://img.shields.io/badge/CompTIA%20Network+-0078D4?style=for-the-badge&logo=comptia&logoColor=white" />
+  <a href="https://www.credly.com/badges/3ed6fee8-e829-49ef-9fdf-2e761a07bd11/public_url"><img src="https://img.shields.io/badge/CompTIA%20A+-E2E2E2?style=for-the-badge&logo=comptia&logoColor=white" />
+  <a href="https://www.credly.com/badges/375a4cad-06ba-4d30-909a-8e6f31d5d640/public_url"><img src="https://img.shields.io/badge/CompTIA%20CySA+-29A6D8?style=for-the-badge&logo=comptia&logoColor=white" />
+  <a href="https://www.credly.com/badges/3cfab74a-1ccd-41af-a7d4-bfbd0a5e138a/public_url"><img src="https://img.shields.io/badge/CompTIA%20PenTest+-FF6C37?style=for-the-badge&logo=comptia&logoColor=white" />
 </div>
-
-
-
-https://www.credly.com/badges/3808f70a-7b01-469e-a882-30bcf61124b4/public_url
-
-
-
-
-
-
-
-Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss anything tech-related!
 
 ---
 
-📫 ## Let's Connect
+## Let's Connect 📫
 You can reach me at: 
 
 LinkedIn: <a href="https://linkedin.com/in/ibrahimnegib"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
