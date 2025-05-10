@@ -1,6 +1,6 @@
 # Welcome to Ibrahim Negib's GitHub! 👋
 
-Hi there! My name is Ibrahim, I'm a recent graduate in Cybersecurity with a solid foundation and passion for all things tech. With 4 years of hands-on experience as an IT Support Specialist, I bring a unique blend of practical expertise and academic knowledge to the table.
+Hi there! My name is Ibrahim, I'm a recent graduate in Cybersecurity with a solid foundation and passion for all things tech. With 4 years of hands-on experience as an IT Operations Specialist, I bring a unique blend of practical expertise and academic knowledge to the table.
 
 ## About Me
 - 🔒 Cybersecurity Enthusiast: Exploring the ever-evolving world of security, from threat analysis to system hardening.
@@ -8,7 +8,7 @@ Hi there! My name is Ibrahim, I'm a recent graduate in Cybersecurity with a soli
 - 🌱 Lifelong Learner: Continuously expanding my skill set with new technologies, tools, and best practices.
 
 ## Objective
-- My journey as an IT Support Specialist has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a Vulnerability manager or Cybersecurity Engineer
+- My journey as an IT Operations Specialist has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a Vulnerability Manager or Cybersecurity Engineer
 
 ## What You'll Find Here
 On this GitHub, you'll discover:
