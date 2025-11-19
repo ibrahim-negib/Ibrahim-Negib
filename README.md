@@ -7,12 +7,18 @@ Hi there! My name is Ibrahim, I'm a recent graduate in Cybersecurity with a soli
 - 🛠️ System Administrator: Skilled in managing vulnerabilities and maintaining IT infrastructure, ensuring systems run smoothly and securely.
 - 🌱 Lifelong Learner: Continuously expanding my skill set with new technologies, tools, and best practices.
 
-## Objective
-- My journey as an IT Operations Specialist has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a Vulnerability Manager or Cybersecurity Engineer
+## Projects
 
-## What You'll Find Here
-On this GitHub, you'll discover:
-- 🖥️ Projects showcasing my cybersecurity skills.
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+<hr/>
 
 ## Skills
 
