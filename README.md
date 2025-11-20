@@ -15,36 +15,6 @@ Hi there! My name is Ibrahim, I'm a recent graduate in Cybersecurity with a soli
 
 <hr/>
 
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Vulnerability Management                      | <img src="https://img.shields.io/badge/-Nessus%20Essentials-0096A6?style=for-the-badge&logo=tenable&logoColor=white" /></a>
-| Network Traffic Monitoring                    | <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /></a>
-| Network Reconisence                           | <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" /></a>
-
-## Tools
-
-### Network 🛜
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TCPDump-00599C?style=for-the-badge&logo=wireshark&logoColor=white" /></a>
-</div>
-
-### Endpoint 💻
-<div>
-    <img src="https://img.shields.io/badge/-JumpCloud-3A77FF?style=for-the-badge&logo=jumpcloud&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/-MobileIron%20MDM-F58220?style=for-the-badge&logo=mobileiron&logoColor=white" /></a>
-</div>
-
-### Operating Systems 🐧
-<div>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/Windows%2010-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-</div>
-
 ## Certifications 👨🏽‍🎓
 <div>
   <a href="https://www.credly.com/badges/3808f70a-7b01-469e-a882-30bcf61124b4/public_url"><img src="https://img.shields.io/badge/CompTIA%20Security+-F94F26?style=for-the-badge&logo=comptia&logoColor=white" />
