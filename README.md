@@ -11,7 +11,7 @@ Hi there! My name is Ibrahim, I'm a recent graduate in Cybersecurity with a soli
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/ibrahim-negib/threat-hunting-scenario-tor)**
 
 <hr/>
 
