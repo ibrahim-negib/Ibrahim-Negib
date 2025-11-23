@@ -11,7 +11,7 @@ Hi there! My name is Ibrahim, I'm a recent graduate in Cybersecurity with a soli
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/ibrahim-negib/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
   
 ## 🚨 Threat Hunting and Security Operations
