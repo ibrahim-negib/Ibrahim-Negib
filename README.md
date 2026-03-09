@@ -17,6 +17,10 @@ Hi there! My name is Ibrahim, I'm a recent graduate in Cybersecurity with a soli
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/ibrahim-negib/threat-hunting-scenario-tor)**
 
+## 🖥️ Proxmox Homelab
+
+- **[Proxmox Secure Homelab](https://github.com/ibrahim-negib/proxmox-secure-homelab)**
+
 <hr/>
 
 ## Certifications 👨🏽‍🎓
